@@ -1,8 +1,8 @@
 # Depay虚拟货币支付卡：成本极低的消费信用卡
 
-## Depay卡是什么？
-
 ![image](https://github.com/user-attachments/assets/82b4c94f-02ca-468e-acc5-8cf02352139e)
+
+## Depay卡是什么？
 
 Depay是一种国际虚拟货币信用卡，支持英镑、欧元、美元等法定货币与BTC、ETH、USDT等加密货币的交易和转账。它还可以绑定到多个第三方支付平台，如支付宝、微信支付、美团外卖、拼多多、Paypal（国区、美区、港区）、天猫国际版等。此外，Depay卡还支持Stripe商户、PayPal商户、Google Play商店、YouTube Premium、美区苹果商店等，使您可以畅享全球无障碍的电子货币支付体验。
 
